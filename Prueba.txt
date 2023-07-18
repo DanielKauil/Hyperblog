@@ -4,6 +4,8 @@ Esta es una prueba de las cosas que se pueden hacer con Git
 
 Experimento 1
 
+Experimento 2
+
 Master 1 
 
 Master 2
