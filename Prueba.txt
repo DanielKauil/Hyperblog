@@ -4,4 +4,6 @@ Esta es una prueba de las cosas que se pueden hacer con Git
 
 Master 1
 
+Master 2
+
 Aqui ya cambiamos todo nuevamente. 
